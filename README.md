@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/georgii-shakhov-a42720258/" target="_blank">Georgii</a> 
 <h3 align="center">Ecole 42 student/software deweloper</h3>
- 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gajayme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" /></p>
 
 <!--
 **Gajayme/Gajayme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
